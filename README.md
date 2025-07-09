@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
+<h1 align="center">Hi 👋 welcome to my profile</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+---
+
+#### I love being able to use the best of technology to help people's lives.
+ 
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [joao.aquino.dev@gmail.com](mailto:joao.aquino.dev@gmail.com)
+* 🚀  I'm currently working at [iFood](https://www.ifood.com.br/) as a Senior Software Engineer, Frontend
+* 🧠  I'm always learning more about web development
+* 🤝  I'm open to collaborating on new projects ideas
+* 🎯  Goal: Deliver the best of technology to everyone
+* ⚡   Fun fact: I am a certified beer sommelier and helped create a drink called 'Tonho' (15% Tahiti lemon juice, 15% honey, 50% Velho Barreiro (Brazilian cachaça), 20% Monster White Zero Sugar energy drink).
+
+#### 🚀 Skills that I love to talk about
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
