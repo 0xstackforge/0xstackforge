@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **JS, Python, Node and React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maxdev](https://github.com/maxdev)
-
-- 📫 How to reach me **fferreira913@gmail.com**
-
-- ⚡ Fun fact **I love books, series, and traveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
