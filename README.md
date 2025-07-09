@@ -6,7 +6,7 @@
 #### I love being able to use the best of technology to help people's lives.
  
 * 🌍  I'm based in Remote
-* ✉️  You can contact me at [ma@gmail.com](maxdevton@gmail.com
+* ✉️  You can contact me at [ma@gmail.com](maxdevton@gmail.com)
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
 * 🎯  Goal: Deliver the best of technology to everyone
