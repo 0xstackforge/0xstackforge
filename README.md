@@ -10,7 +10,7 @@
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
 * 🎯  Goal: Deliver the best of technology to everyone
-* ⚡   Fun fact: I am a certified beer sommelier and helped create a drink called 'Tonho' (15% Tahiti lemon juice, 15% honey, 50% Velho Barreiro (Brazilian cachaça), 20% Monster White Zero Sugar energy drink).
+* ⚡   Fun fact: I thrive on collaboration — always ready to help, mentor, or contribute where it counts.
 
 #### 🚀 Skills that I love to talk about
 
