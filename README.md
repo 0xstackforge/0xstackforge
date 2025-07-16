@@ -23,7 +23,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-prince-dev&layout=compact&theme=tokyonight">
 </p>
 
-#### Support Me
-
-<a href="https://www.buymeacoffee.com/joaoaquino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="200" /></a>
 
