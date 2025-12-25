@@ -5,7 +5,6 @@
 
 #### I love being able to use the best of technology to help people's lives.
  
-* 🌍  I'm based in Remote
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
 * 🎯  Goal: Deliver the best of technology to everyone
@@ -98,7 +97,7 @@
 
 <!-- <div id='profile-them'><a class='github-status' href='https://github.com/0xstackforge'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=0xstackforge&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/0xstackforge'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xstackforge&layout=compact' />
-</div> -->
+</div> * 🌍  I'm based in Remote -->
 
 
 
