@@ -91,7 +91,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
   </a>
 </p>
-### GitHub Status 😎
+GitHub Status 😎
 
 ![](https://komarev.com/ghpvc/?username=0xstackforge&color=blueviolet)
 
