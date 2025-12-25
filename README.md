@@ -8,7 +8,7 @@
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
 * 🎯  Goal: Deliver the best of technology to everyone
-* ⚡   Fun fact: I thrive on collaboration — always ready to help, mentor, or contribute where it counts.
+* ⚡   Fun fact: I thrive on collaboration - always ready to help, mentor, or contribute where it counts.
 
 
 #### 🚀 Skills that I love to talk about
